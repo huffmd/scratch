@@ -8,5 +8,6 @@
   "video": true,
   "videosFolder": "../../dist/cypress/apps/my-react-app-e2e/videos",
   "screenshotsFolder": "../../dist/cypress/apps/my-react-app-e2e/screenshots",
-  "chromeWebSecurity": false
+  "chromeWebSecurity": false,
+  "projectId": "7c4ww6"
 }
